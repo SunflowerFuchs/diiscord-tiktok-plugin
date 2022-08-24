@@ -1,6 +1,6 @@
 # Tiktok Plugin for SunflowerFuchs/discord-bot
 
-A plugin for [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-giveaway-plugin/blob/HEAD/)
+A plugin for [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-bot/)
 
 ## Installation
 
