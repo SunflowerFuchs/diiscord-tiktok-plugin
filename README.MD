@@ -1,6 +1,6 @@
 # Tiktok Plugin for SunflowerFuchs/discord-bot
 
-A plugin for [sunflowerfuchs/discord-bot]()
+A plugin for [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-giveaway-plugin/blob/HEAD/)
 
 ## Installation
 
@@ -12,7 +12,7 @@ The following snippet is all that is required to add the plugin to your existing
 $bot = new SunflowerFuchs\DiscordBot\Bot($options);
 
 // This is the only relevant line
-$bot->registerPlugin(new TiktokPlugin());
+$bot->registerPlugin(new SunflowerFuchs\DiscordBot\TiktokPlugin\TiktokPlugin());
 
 $bot->run();
 ```
